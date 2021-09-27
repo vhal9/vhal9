@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Victor 👋
 
-#### Seja bem vindo!
+#### Seja bem vindo ao meu portfólio!
 
-- 💻 Desenvolvedor FullStack
-- 🖥️ Bacharel Ciência da Computação - UFLA
+- 💻 Software Developer
+- 🖥️ Bacharel em Ciência da Computação pela UFLA
 - ☕ Estudando Java, Spring e Vue, entre outras coisas
 
 ## 
