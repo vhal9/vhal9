@@ -4,7 +4,7 @@
 
 - 💻 Software Developer
 - 🖥️ Bacharel em Ciência da Computação pela UFLA
-- ☕ Estudando Java, Spring e Vue, entre outras coisas
+- ☕ Estudando Java, Spring, Vue, entre outras coisas
 
 ## 
 
