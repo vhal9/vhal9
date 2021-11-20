@@ -2,9 +2,9 @@
 
 #### Seja bem vindo ao meu portfólio!
 
-- 💻 Software Developer
+- 💻 Software Developer na DTI Digital
 - 🖥️ Bacharel em Ciência da Computação pela UFLA
-- ☕ Estudando Java, Spring, Vue, entre outras coisas
+- 🚀 Estudando Java, Spring, Vue, entre outras coisas
 
 ## 
 
