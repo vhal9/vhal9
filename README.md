@@ -4,7 +4,7 @@
 
 - 💻 Desenvolvedor Web na DTI Digital
 - 🖥️ Bacharel em Ciência da Computação pela UFLA
-- 🚀 Estudando Java, Spring, Vue, entre outras coisas
+- 🚀 Focando meus estudos em Backend com Java, Spring, entre outras coisas.
 
 ## 
 
